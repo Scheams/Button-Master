@@ -1,0 +1,60 @@
+###########################################
+# Syntax Coloring Map For Button
+###########################################
+
+###########################################
+# Datatypes (KEYWORD1)
+###########################################
+
+Debounce					KEYWORD1
+ButtonEvent					KEYWORD1
+
+###########################################
+# Methods and Functions (KEYWORD2)
+###########################################
+
+readState					KEYWORD1
+readRise					KEYWORD1
+readFall					KEYWORD1
+readChange					KEYWORD1
+
+updateBounce				KEYWORD1
+getState					KEYWORD1
+getRise						KEYWORD1
+getFall						KEYWORD1
+getChange					KEYWORD1
+
+setParaStandard				KEYWORD1
+setParaClick				KEYWORD1
+setParaAdd					KEYWORD1
+
+updateButton				KEYWORD1
+getSingle					KEYWORD1
+getDouble					KEYWORD1
+getLong						KEYWORD1
+getAction					KEYWORD1
+getAdd						KEYWORD1
+getAddCalc					KEYWORD1
+
+readSingle					KEYWORD1
+readDouble					KEYWORD1
+readLong					KEYWORD1
+readAction					KEYWORD1
+readAdd						KEYWORD1
+readAddCalc					KEYWORD1
+
+###########################################
+# Constants (LITERAL1)
+###########################################
+
+NoInvert					LITERAL1
+Invert						LITERAL1
+
+NoMode						LITERAL1
+Pulldown					LITERAL1
+Pullup						LITERAL1
+InternPullup				LITERAL1
+
+SingleClick					LITERAL1
+DoubleClick					LITERAL1
+LongClick					LITERAL1
