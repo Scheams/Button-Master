@@ -1,10 +1,17 @@
 Main Object: Button-Master
+
 Sub Object: README
+
 Author: Christoph Amon
+
 Contact: christoph.amon.htl@gmail.com
+
 School: HTL 3 Rennweg
+
 Place: Austria, Vienna
+
 Date: 25.04.2016
+
 Version: v1.0.2-014
 
 Debounce Library:
@@ -39,5 +46,7 @@ can be changed through a global bool variable.
 Further information in "Button-Master Documentation.pdf"
 
 Tested on:
+
 	- Arduino Uno Board
+	
 	- Arduino Mega Board
